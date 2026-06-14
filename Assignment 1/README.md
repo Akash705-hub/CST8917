@@ -5,6 +5,14 @@
 - **Student ID:** 041269598
 - **Course:** CST8917 - Spring 2026
 
+## Abbreviations
+- **ADF**: Azure Durable Functions
+- **FaaS**: Functions as a Service
+- **ML**: Machine Learning
+- **DTS**: Durable Task Scheduler
+- **S3**: Amazon Simple Storage Service
+- **EC2**: Amazon Elastic Compute Cloud
+
 ## Assignment Tasks
 
 ### Part 1: Paper Summary
