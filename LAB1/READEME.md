@@ -4,6 +4,7 @@
 - **Name:** Akash Patel
 - **Student ID:** 041269598
 - **Course:** CST8917 - Spring 2026
+- **Video Link**: https://drive.google.com/file/d/13WeEr0tPX2Ak2giKnO8MondcsYchIl89/view?usp=drive_link
 
 ## Setup
 
