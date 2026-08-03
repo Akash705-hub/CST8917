@@ -3,7 +3,7 @@
 Event-driven image processing pipeline using Azure Event Grid, Functions, and Blob Storage.
 
 ## Video Demo
-
+https://drive.google.com/file/d/1YBuMtXfZ54nVoN6NkQZN77DWlzvIgzhs/view?usp=sharing
 
 ## Part 1: Storage Account
 
